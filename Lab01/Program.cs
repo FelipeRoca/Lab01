@@ -50,7 +50,7 @@ namespace Lab01
                 {
                     Console.WriteLine(inputTexto.Length);
                 } */
-//Console.WriteLine(inputTexto.Length);
+
  /*EJERCICIO 2*/
                 
                 
